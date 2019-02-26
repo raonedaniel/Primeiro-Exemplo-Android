@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_nome">Introduzca su nombre</string>
+    <string name="hint_telefone">Ingresa tu teléfono</string>
+    <string name="hint_email">Ingresa tu email</string>
+</resources>
+
+
+
